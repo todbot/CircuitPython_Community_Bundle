@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 181 libraries available.
+There are 182 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -111,6 +111,7 @@ There are 181 libraries available.
 * [CircuitPython HMAC](https://github.com/jimbobbennett/CircuitPython_HMAC) ([PyPi](https://pypi.org/project/circuitpython-hmac)) ([Docs](https://circuitpython.readthedocs.io/projects/hmac/en/latest/))
 * [CircuitPython KeyManager](https://github.com/relic-se/CircuitPython_KeyManager.git) ([PyPi](https://pypi.org/project/circuitpython-keymanager)) ([Docs](https://circuitpython-keymanager.readthedocs.io/))
 * [CircuitPython MIDI Tools](https://github.com/CedarGroveStudios/CircuitPython_MIDI_Tools.git)
+* [CircuitPython MenuManager](https://github.com/relic-se/CircuitPython_MenuManager.git) ([PyPi](https://pypi.org/project/circuitpython-menumanager)) ([Docs](https://circuitpython-menumanager.readthedocs.io/))
 * [CircuitPython MicroOSC](https://github.com/todbot/CircuitPython_MicroOSC.git) ([PyPi](https://pypi.org/project/circuitpython-microosc)) ([Docs](https://circuitpython-microosc.readthedocs.io/))
 * [CircuitPython MiniEthers](https://github.com/ShambaC/CircuitPython_MiniEthers.git) ([PyPi](https://pypi.org/project/circuitpython-miniethers)) ([Docs](https://circuitpython-miniethers.readthedocs.io/))
 * [CircuitPython MorseCode](https://github.com/jposada202020/CircuitPython_MorseCode.git) ([PyPi](https://pypi.org/project/circuitpython-morsecode)) ([Docs](https://circuitpython-morsecode.readthedocs.io/))
